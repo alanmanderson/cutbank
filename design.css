@@ -1,0 +1,180 @@
+@import url("http://images.z57websites.com/realestate/ae/css/global.css");
+@import url("http://images.z57websites.com/realestate/ae/css/layouts/J.css");
+@import url("http://images.z57websites.com/realestate/ae/css/themes/premiere/AE-graphicforms.css");
+@import url("http://images.z57websites.com/realestate/ae/css/themes/custom_J/frame.css");
+@import url("http://images.z57websites.com/realestate/ae/css/themes/custom/J.css");
+
+#secondary, #frameheader {    background-image: none;
+    }
+
+#secondary, #frameheader, #framesubnav, #framefooter {
+    background-color: #eeffcc;
+    }
+
+#secondary #title h1, #frameheader #title h1 {
+    color: #000000;
+    }
+
+#secondary #nav, #frameheader #nav {
+    border-top: 2px solid #22aa00;
+    border-bottom: 1px solid #22aa00;
+    background-color: #4477ff;
+    }
+
+#secondary #nav ul li a:link, #secondary #nav ul li a:visited, #frameheader #nav ul li a:link, #frameheader #nav ul li a:visited {
+    color: #000000;
+    }
+
+#secondary #nav ul li a:hover, #frameheader #nav ul li a:hover {
+    color: #000000;
+    }
+
+#secondary #subnav ul li, #framesubnav #subnav ul li {
+    border: 2px solid #22aa00;
+    background-color: #4477ff;
+    }
+
+#secondary #subnav ul li a:link, #secondary #subnav ul li a:visited, #framesubnav #subnav ul li a:link, #framesubnav #subnav ul li a:visited {
+    color: #000000;
+    }
+
+#secondary #subnav ul li a:hover, #framesubnav #subnav ul li a:hover {
+    background-color: #4477ff;
+    color: #000000;
+    }
+
+body {
+    /*background-color: #118800;*/
+    background-color: blue;
+    color: #000000;
+    }
+
+a:link, a:visited {
+    color: #000000;
+    }
+
+a:hover {
+    color: #000000;
+    }
+
+a#sitetitle {
+    color: #000000;
+    }
+
+h1 {
+    color: #000000;
+    }
+
+h2, h3, h4 {
+    color: #000000;
+    }
+
+#home #wrapper {
+    background-color: #eeffcc;
+    }
+
+#home #title {
+    border: 2px solid #22aa00;
+    background-color: #4477ff;
+    }
+
+#home #content {    background-image: url(http://root.z57.com/filemanager/uploads/5/a/5a5bd397-b6de-2e3d-5946eb4624b24325.jpg);
+    }
+
+#home #info {
+    border: 2px solid #22aa00;
+    background-color: #4477ff;
+    }
+
+#home #nav ul li {
+    border: 2px solid #22aa00;
+    background-color: #4477ff;
+    }
+
+#home #nav ul li a:link, #home #nav ul li a:visited {
+    color: #000000;
+    }
+
+#home #nav ul li a:hover {
+    color: #000000;
+    }
+
+#footer {
+    color: #000000;
+    border: 2px solid #22aa00;
+    background-color: #4477ff;
+    }
+
+#footer a:link, #footer a:visited {
+    color: #000000;
+    }
+
+#footer a:hover {
+    color: #000000;
+    }
+
+#home #info {    display: none;
+    top: 66px;
+    }
+
+#home #nav {    top: 456px;
+    }
+  #home #feature {      top: 520px;
+      }
+
+
+#secondary #formtable .label01 {
+  text-align: right;
+  padding-right: 1px;
+  }
+
+#secondary #formtable .label02 {
+  text-align: right;
+  padding-right: 1px;
+  }
+
+#secondary #formtable .header01 {
+  font-weight: bold;
+  text-align: center;
+  }
+
+#secondary #formtable .freereport01 {
+  background: #EDEDED;
+  }
+
+#secondary #formtable .freereport01 {
+  background: #F7F7F7;
+  }
+
+#secondary #formtable {
+  margin-left: auto;
+  margin-right: auto;
+  }
+  #search_page .asmSelect, #property, #citiesAddr, #SearchDistance, #sort_options,
+.ui-slider-range, #areaSearch1, #areaSearch2, #areaSearch3,
+#tooltiptext_bedrooms, #tooltiptext_bathrooms,
+#search_page #example ul li a:hover, 
+#result_page #organizer_col1 ul li a:hover, 
+#result_page #example ul li a:hover,
+#search_page #example  .ui-tabs-selected a:link, 
+#result_page #organizer_col1  .ui-tabs-selected a:link,
+#result_page #example  .ui-tabs-selected a:link,
+.formPrimaryColor,#areaSearch1, #areaSearch2,#areaSearch3 {
+	background-color: #4477ff;
+	background: #4477ff;
+}
+
+.idx_form_input, .idx_form_textarea, .idx_form_button,
+.idx_form_label,
+#search_page #example ul li a:link {
+	color: #4477ff;
+}
+
+#search_page #example  .ui-tabs-selected a:link, 
+#result_page #organizer_col1  .ui-tabs-selected a:link,
+#result_page #example  .ui-tabs-selected a:link,
+#search_page #example ul li a:hover, 
+#result_page #example ul li a:hover,
+.formPrimaryColor {
+	color: #000000;
+}
